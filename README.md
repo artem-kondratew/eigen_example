@@ -26,7 +26,7 @@ cmake -S eigen_example -B eigen_example/build
 ```
 
 ```bash
-cmake --build eigen_example
+cmake --build eigen_example/build
 ```
 
 ## Step 4: Run example
