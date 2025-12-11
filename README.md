@@ -1,5 +1,5 @@
 # eigen_example
-C++ example with Eigen library
+A minimal project example demonstrating how to build and use the Eigen library in C++
 
 ## Step 1: Install Eigen
 
